@@ -1,5 +1,5 @@
 {
-  "name": "bassbot",
+  "name": "botler",
   "module": "src/index.ts",
   "type": "module",
   "scripts": {
